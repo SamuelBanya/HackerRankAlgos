@@ -1,5 +1,8 @@
 * Prompt
-<2023-05-22 Mon 19:57>: Prompt:
+<2023-05-22 Mon 19:57>: Link:
+- https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true
+
+Prompt:
 #+begin_src text
 In this challenge, you are required to calculate and print the sum of the elements in an array, keeping in mind that some of those integers may be quite large.
 
